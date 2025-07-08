@@ -1,0 +1,10 @@
+{
+    "question_field": "Question",
+    "answer_field": "Answer",
+    "image_field": "Image",
+    "output_dir": "output",
+    "images_dir": "images",
+    "delay_between_searches": 1.0,
+    "max_image_size": [800, 600],
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+} 
